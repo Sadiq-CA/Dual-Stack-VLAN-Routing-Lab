@@ -73,17 +73,6 @@ This project simulates an **enterprise-level dual-stack network** using Cisco Pa
 
 ---
 
-## 🔧 Key Configuration Samples
-
-### 🔹 Subinterface (Router Configuration)
-```bash
-interface Gig0/0/1.10
- encapsulation dot1Q 10
- ip address 192.168.1.1 255.255.255.224
- ipv6 address 2001:10::1/64
- ipv6 ospf 1 area 0
- ipv6 dhcp server NEW-VLAN10
-
 ## 💼 Skills Demonstrated
 
 - VLAN and trunking on multi-switch architecture
@@ -92,4 +81,5 @@ interface Gig0/0/1.10
 - DHCP configuration for dual stack networks
 - Hands-on Packet Tracer design and verification
 - Professional documentation (README + Excel)
+
 
