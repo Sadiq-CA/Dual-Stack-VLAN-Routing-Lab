@@ -64,6 +64,12 @@ This project simulates an **enterprise-level dual-stack network** using Cisco Pa
 
 ---
 
+### 🖼️ Network Topology
+
+![Topology](screenshots/Network_Diagram.jpg)
+
+---
+
 ## 📥 DHCP Server Setup
 
 ### ✅ On R1 and R2:
