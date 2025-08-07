@@ -1,4 +1,4 @@
-# 🌐 Dual Stack Enterprise Network Project (IPv4 + IPv6) with VLANs, Static Routing, and OSPF
+# 🌐 Dual Stack Enterprise Network Project (IPv4 + IPv6)
 
 This project simulates an **enterprise-level dual-stack network** using Cisco Packet Tracer, with full **VLAN segmentation**, **router-on-a-stick inter-VLAN routing**, **DHCPv4 & DHCPv6**, and a mix of **IPv4 static routing** and **IPv6 dynamic routing using OSPFv3**.
 
