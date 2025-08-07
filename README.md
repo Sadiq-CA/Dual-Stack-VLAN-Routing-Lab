@@ -82,4 +82,18 @@ This project simulates an **enterprise-level dual-stack network** using Cisco Pa
 - Hands-on Packet Tracer design and verification
 - Professional documentation (README + Excel)
 
+---
+
+## 🙋‍♂️ Author
+
+**Sadiq**  
+📌 Network Engineer | CCNA Certified | Aspiring Cloud & Security Architect  
+
+🔗 [LinkedIn Profile](linkedin.com/in/iam-sadiq)  
+📂 [GitHub Portfolio](https://github.com/Sadiq-CA)  
+✉️ Email: Iam_sadiq.s@yahoo.com
+🛠️ Skills: VLAN | OSPFv3 | IPv6 | DHCP | Static Routing | Packet Tracer | Dual Stack Networking
+
+---
+
 
