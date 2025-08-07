@@ -83,3 +83,13 @@ interface Gig0/0/1.10
  ipv6 address 2001:10::1/64
  ipv6 ospf 1 area 0
  ipv6 dhcp server NEW-VLAN10
+
+## 💼 Skills Demonstrated
+
+- VLAN and trunking on multi-switch architecture
+- Router-on-a-stick inter-VLAN routing
+- IPv4 Static + IPv6 Dynamic (OSPFv3) Routing
+- DHCP configuration for dual stack networks
+- Hands-on Packet Tracer design and verification
+- Professional documentation (README + Excel)
+
